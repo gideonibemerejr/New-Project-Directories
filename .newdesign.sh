@@ -1,6 +1,6 @@
 #! /bin/bash
 
-echo What is the Design project\'s name? !!!REMINDER!!! No Spaces!
+echo What is the Design project\'s name? ***REMINDER*** !No Spaces!
 
 read projectname
 
