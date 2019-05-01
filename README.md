@@ -28,6 +28,9 @@ $ mkdir ~/<filename>
 
 Here we tell the computer to create a directory `<dirname>` in the home directory using `~/.`. You will want to do this again if you are going to be making directories for both Design and Development.
 
+Inside the `~/Dev` directory I made an additional directory called Apps. You can do so by running:
+`$ mkdir ~/Dev/Apps`
+
 ## New App Directory Script
 
 Next we will make our script for the new app project. This will be the script that the computer will run through to create the directories.
