@@ -182,14 +182,42 @@ Last step! We need to make a quick command type so we can make these directories
    $ newdesign
    ```
 
-You should be prompted
+You should be prompted with the message from earlier.
 
 ### macOS Terminal Setup
 
-```
-alias newsoftware="~/.newsite.sh"
-alias newdesign="~/.newdesign.sh"
-```
+For the Terminal app, it is very similar to oh-my-zsh. We are just adding `alias` code lines to a different file.
 
-Remember you can always use the finder to delete any practice. Want some more command line practice? Remove any practice runs of the script(s) using the Terminal!
-https://www.youtube.com/watch?v=GcZOaEivf_c
+1. Make sure you are inside the Home directory.
+2. Once you are inside of the Home directory run:
+   ```
+   $ ls -a
+   ```
+   The `-a` flag will show you all the _hidden_ files. We're looking for `.bash_profile`.
+3. In the case that you do not have a `.bash_profile` you will need to create one. In your `$ ~/` directory run:
+   ```
+   $ touch .bash_profile
+   ```
+4. Now you will need to open the `.bash_profile` file in your code editor. For me it was `$ code .bash_profile`
+5. Create the following `alias` lines:
+   ```
+   alias newapp="~/.newapp.sh"
+   alias newdesign="~/.newdesign.sh"
+   ```
+6. Save the file and Quit your terminal app.
+7. Try and run:
+
+   ```
+   $ newapp
+
+   ```
+
+   or
+
+   ```
+   $ newdesign
+   ```
+
+You should be prompted with the message from earlier.
+
+Remember you can always use the finder to delete any practice directories you make! Want some more command line practice? Remove any practice runs of using the Terminal!
