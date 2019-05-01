@@ -18,7 +18,7 @@ If you are not comfortable with the macOS command line, check out this [App](lin
 
 If you already have one set up, great! You can move straight to [New Site](#new-site-or-software-directory-script) or [New Design](#new-design-directory-script). Already have the scripts set up as well? Skip on down to [Add Alias](#add-alias) to make a command that will run your script and build your directory structure.
 
-First you will want to set up your Home directory with a root directory to host your project(s). Try running `$ mkdir ~/<filename>` in your terminal of choice. I'm using [Hyper](https://www.hyper.is) and [oh-my-zsh](https://ohmyz.sh).
+First you will want to set up your Home directory with a root directory to host your project(s). Try running `$ mkdir ~/<filename>` in your terminal of choice. I'm using <a hreff="https://www.hyper.is" target="_blank">Hyper</a> and <a hreff="https://ohmyz.sh" target="_blank">oh-my-zsh</a>.
 ```
 $ mkdir ~/<filename>
 ```
