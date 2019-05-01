@@ -2,7 +2,14 @@
 System Requirements for v1.0: macOS only.
 
 ## Introduction
-This serves as a way to add some Shell Scripts and a few aliases to create simple new project directories that contains all necessary folders for organized creativity. We will be taking in a single variable, the project title, to name each folder we create using the script(s).  If you are not comfortable with the macOS command line, check out this [App](link) that does the same, but with a neat User Interface.
+This serves as a way to add some Shell Scripts and a few aliases to create simple new project directories that contains all necessary folders for organized creativity. We will be taking in a single variable, the project title, to name each root folder we create using the script(s). The directory structure uses the following structure: 
+1. Assets -- with Photos, Typography, and Inspirations as subdirectories
+2. Design -- for the UI/UX files
+3. Code -- for the programming files
+4. Proofs -- drafts sent out for review
+5. Delivered -- Final files/ Deliverables for the Client.
+
+If you are not comfortable with the macOS command line, check out this [App](link) that does the same, but with a neat User Interface.
 
 **Attention:** Below I use  `<>` with text in between as a place holder. You should be changing this portion of the code to whatever you want to name it be.
 
@@ -39,7 +46,7 @@ Next we will make our script for the new software or website project. This will 
     
     read projectname
     
-    mkdir -p ~/Dev/Software/$projectname/{01_Assets/{Photography,Inspiration,Typography},02_Design,03_Code,04_Proofs,05_Delivered}
+    mkdir -p ~/Dev/Software/$projectname/{01_Assets/{Photography,Inspiration,Typography},02_Design,03_Code,04_Proofs,05_Delivered/{01_Design,02_Code}}
     ```
     Lets go over what's happening here. 
     
