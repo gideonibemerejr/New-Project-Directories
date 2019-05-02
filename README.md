@@ -12,7 +12,7 @@ This serves as a way to add some Shell Scripts and a few aliases to create simpl
 4. Proofs -- drafts sent out for review
 5. Delivered -- Final files/ Deliverables for the Client.
 
-If you are not comfortable with the macOS command line, check out this [Application](link) that does the same, but with a neat User Interface.
+If you are not comfortable with the macOS command line, check out this [Application](https://github.com/gideonibemerejr/New-Project-Directories/blob/master/Scaffold_README.md) that does the same, but with a neat User Interface.
 
 - **Attention:** Below I use `<>` with text in between as a place holder. You should be changing this portion of the code to whatever you want it to be and **without the brackets.**
 
