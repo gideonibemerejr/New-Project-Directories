@@ -22,12 +22,8 @@ If you already have one set up, great! You can move straight to [New App](#new-a
 
 First you will want to set up your Home directory with a root directory to host your project(s). Try running `$ mkdir ~/<dirname>` in your terminal of choice. I'm using <a href="https://www.hyper.is" target="_blank">Hyper</a> and <a href="https://ohmyz.sh" target="_blank">oh-my-zsh</a>.
 
-<<<<<<< HEAD
-First you will want to set up your Home directory with a root directory to host your project(s). Try running `$ mkdir ~/<filename>` in your terminal of choice. I'm using 
-<a href="https://www.hyper.is" target="_blank">Hyper</a> and 
-<a href="https://ohmyz.sh" target="_blank">oh-my-zsh</a>.
-=======
->>>>>>> 8a2266af21dacf3832e7652bc8b5a2c22ba8ad90
+
+
 ```
 $ mkdir ~/<filename>
 ```
