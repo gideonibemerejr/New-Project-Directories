@@ -10,7 +10,7 @@ This serves as a way to add some Shell Scripts and a few aliases to create simpl
 2. Design -- for the UI/UX files
 3. Code -- for the programming files
 4. Proofs -- drafts sent out for review
-5. Delivered -- Final files/ Deliverables for the Client.
+5. Delivered -- final files/deliverables accepted by the client.
 
 If you are not comfortable with the macOS command line, check out this [Application](https://github.com/gideonibemerejr/New-Project-Directories/blob/master/Scaffold_README.md) that does the same, but with a neat User Interface.
 
