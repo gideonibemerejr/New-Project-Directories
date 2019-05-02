@@ -1,6 +1,6 @@
-# Organizing and Creating New Project Directories
+# Creating New Project Directories
 
-System Requirements for v1.0: macOS only.
+This README is for macOS only.
 
 ## Introduction
 
