@@ -1,2 +1,2 @@
 # Lit
-[App Link](http://www.mediafire.com/file/oy4gmmk4bjw2v79/Scaffold.zip/file)
+[Download Scaffold](http://www.mediafire.com/file/y29j5e2zwt16fzf/Scaffold.zip/file)
