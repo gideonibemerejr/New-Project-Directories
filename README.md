@@ -1,10 +1,10 @@
-# Creating New Project Directories
+# Scaffold
 
 This README is for macOS only.
 
 ## Introduction
 
-This serves as a way to add some Shell Scripts and a few aliases to create simple new project directories that contains all necessary folders for organized creativity. We will be taking in a single variable, the project title, to name each root folder we create using the script(s). The directory structure uses the following structure:
+Scaffold  is a way to add some shell scripts and a few aliases to create simple new project directories that contains all necessary folders for organized creativity. We will be taking in a single variable, the project title, to name each root folder we create using the script(s). The directory structure uses the following structure:
 
 1. Assets -- with Photos, Typography, and Inspirations as subdirectories
 2. Design -- for the UI/UX files
@@ -12,7 +12,7 @@ This serves as a way to add some Shell Scripts and a few aliases to create simpl
 4. Proofs -- drafts sent out for review
 5. Delivered -- final files/deliverables accepted by the client.
 
-If you are not comfortable with the macOS command line, check out this [Application](https://github.com/gideonibemerejr/New-Project-Directories/blob/master/Scaffold_README.md) that does the same, but with a neat User Interface.
+If you are not comfortable with the macOS command line, check out the [Application](https://github.com/gideonibemerejr/New-Project-Directories/blob/master/Scaffold_README.md) that does the same, but with a neat User Interface.
 
 - **Attention:** Below I use `<>` with text in between as a place holder. You should be changing this portion of the code to whatever you want it to be and **without the brackets.**
 
