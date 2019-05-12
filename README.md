@@ -4,17 +4,20 @@ This README is for macOS only.
 
 ## Introduction
 
-Scaffold  is a way to add some shell scripts and a few aliases to create simple new project directories that contains all necessary folders for organized creativity. We will be taking in a single variable, the project title, to name each root folder we create using the script(s). The directory structure uses the following structure:
+Scaffold  is a way to add some shell scripts and a few aliases to create simple new project directories through the terminal. Each Scaffold flow creates directories to organize creativity. For every new project, Scaffold will use the following structure:
 
 1. Assets -- with Photos, Typography, and Inspirations as subdirectories
 2. Design -- for the UI/UX files
-3. Code -- for the programming files
+*3. Code -- for the programming files*
 4. Proofs -- drafts sent out for review
 5. Delivered -- final files/deliverables accepted by the client.
+   - Writing `code`? The Dev flow creates two deliverables folders: `01_Design` and `02_Code` 
+
+*Not a developer? Utilize the Design flow. There will not be a "Code" directory*
 
 If you are not comfortable with the macOS command line, check out the [Application](https://github.com/gideonibemerejr/New-Project-Directories/blob/master/Scaffold_README.md) that does the same, but with a neat User Interface.
 
-- **Attention:** Below I use `<>` with text in between as a place holder. You should be changing this portion of the code to whatever you want it to be and **without the brackets.**
+- **Attention:** Below, `<text>` is used as a place holder. Change this portion of the code however deemed fit. **Without the brackets.**
 
 ## Setting up a <root> in the Home Directory
 
