@@ -19,7 +19,7 @@ If you are not comfortable with the macOS command line, check out the [Applicati
 
 - **Attention:** Below, `<text>` is used as a place holder. Change this portion of the code however deemed fit. **Without the brackets.**
 
-## Setting up a <root> in the Home Directory
+## Setting up a root in the Home Directory
 
 If you already have one set up, great! You can move straight to [New App](#new-app-directory-script) or [New Design](#new-design-directory-script). Already have the scripts set up as well? Skip down to [Add Alias](#add-alias) to make a command that will run your script and make your directory structure.
 
