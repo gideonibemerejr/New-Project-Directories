@@ -8,7 +8,7 @@ Scaffold adds shell scripts and a few aliases to create a set of directories for
 
 1. Assets -- with Photos, Typography, and Inspirations as subdirectories
 2. Design -- for the UI/UX and design files
-*3. Code -- for the programming files*
+***3. Code -- for the programming files***
 4. Proofs -- drafts sent out for review
 5. Delivered -- final files/deliverables accepted by the client.
    - Writing `code`? The Dev flow creates two deliverables folders: `01_Design` and `02_Code` 
